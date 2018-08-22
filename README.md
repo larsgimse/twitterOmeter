@@ -30,6 +30,8 @@ Python code: https://github.com/larsgimse/twitterOmeter/blob/master/python/twitt
 
 # Use LED on micro:bit
 
+NEW micro:bit code: https://makecode.microbit.org/_M73Paw2Y7Fz3 to use with changestream from twitter
+
 <img src="https://github.com/larsgimse/twitterOmeter/blob/master/led_on_microbit.png" width=500>
 micro:bit code: https://makecode.microbit.org/_0FFbLfcLmddA
 
