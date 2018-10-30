@@ -2,12 +2,12 @@
 Show twitter activity on Neopixel/LED on micro:bit using computer running Python. Counting pixel when #yourChoice (#trump in Python code) are tweeted on Internet.
 
 You need:
-Computer: RaspberryPi / Windows / MAC / Linux
-micro:bit - www.microbit.org
-NeoPixel https://www.adafruit.com/category/168 or LED on microbit
-Python 2.7.xx - https://www.python.org/downloads/
-TwitterAPI - https://github.com/geduldig/TwitterAPI
-
+Computer: RaspberryPi / Windows / MAC / Linux<br>
+micro:bit - www.microbit.org<br>
+NeoPixel https://www.adafruit.com/category/168 or LED on microbit<br>
+Python 2.7.xx - https://www.python.org/downloads/<br>
+TwitterAPI - https://github.com/geduldig/TwitterAPI<br>
+<br>
 
 <img src="https://github.com/larsgimse/twitterOmeter/blob/master/twitterOmeter.png" width=500>
 https://www.instagram.com/p/Bd2Svvfg1Yg/
